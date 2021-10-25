@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Antek Kania\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Antek Kania\\.nuget\\packages"
+    ]
+  }
+}
